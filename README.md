@@ -15,7 +15,8 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/adam-magyar-816569181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀 I'm a dedicated Senior Software Engineer with a strong background in full-stack development, currently working with Instructure through Bene Studio. With extensive experience in modernizing legacy applications and delivering high-quality software solutions, I thrive in fast-paced environments where collaboration and innovation are key.</h3>**
+ **<h3 align="center">🚀 Senior Software Engineer and AI Agent Engineer at Marshmallow. Strong full-stack background, experienced in modernizing legacy systems and delivering high-quality software in fast-paced, collaborative environments.
+</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
